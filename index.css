@@ -74,6 +74,7 @@ align-items: center;
 }
 
 #home>img{
+  object-fit: cover;
   width: 350px;
   margin: 0% 7%;
   border-radius: 50%;
@@ -86,6 +87,7 @@ left: 50%;
 
 #home>img:hover{
   transform: scale(1.05);
+  object-fit: cover;
 }
 
 #user-detail-name{
