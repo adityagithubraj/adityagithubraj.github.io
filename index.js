@@ -13,7 +13,7 @@ function typeWriter() {
     setTimeout(typeWriter, speed);
   } else {
    
-    i = 0;
+    i = 2;
     // clear the text
     document.getElementById("demo1").innerHTML = "";
     // make the recursive call

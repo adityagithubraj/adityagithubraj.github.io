@@ -203,7 +203,7 @@ gap: 4%;
 }
 
 .project-card{
-  background-color: gold;
+  background-color: rgb(24, 27, 25);
   padding: 6%;
   border-radius: 8px;
 }
@@ -213,7 +213,7 @@ gap: 4%;
 }
 
 .project-card *:hover{
-  color:red)
+  color:rgb(105, 100, 100)
 }
 .project-title{
   font-size: 30px;
