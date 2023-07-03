@@ -44,13 +44,13 @@ GitHubCalendar(".calendar", "adityagithubraj", {
 
 document.getElementById("resume-button-1").onclick = () => {
   window.open(
-    "https://drive.google.com/file/d/1wwPg7ctrAmqe_kqX6ugC1EdVVn4QFjQx/view?usp=share_link"
+    "https://drive.google.com/file/d/1R85JSlcBCER8-DH6G39_rmMUCwgA0FPO/view?usp=sharing"
   );
 };
 
 document.getElementById("resume-button-2").onclick = () => {
   window.open(
-    "https://drive.google.com/file/d/1wwPg7ctrAmqe_kqX6ugC1EdVVn4QFjQx/view?usp=share_link"
+    "https://drive.google.com/file/d/1R85JSlcBCER8-DH6G39_rmMUCwgA0FPO/view?usp=sharing"
   );
 };
 
