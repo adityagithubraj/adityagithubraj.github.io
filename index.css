@@ -360,8 +360,6 @@ display: none;
    z-index: 3;
 }
 
-
-
 @media only screen and (max-width: 670px) {
   .sidebar {padding-top: 15px;}
   .sidebar a {font-size: 18px;}
@@ -487,9 +485,10 @@ background-color: white;
   
 }
 
-#resume-button-1,#resume-button-2{
+#resume-button-1,#resume-button-2
+{
   background: none;
-  border: none;
+  
 
 }
 #resume-button-1 a,#resume-button-2 a{
